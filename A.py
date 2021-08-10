@@ -1,1 +1,1 @@
-print("sprite")
+print("sprite pluse A+B")
